@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Shakur 👋
 
-<!--
-**shakurahmadd/shakurahmadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Machine Learning & AI Engineer  
+Passionate about Python, data, and building end-to-end ML projects.
 
-Here are some ideas to get you started:
+### 🚀 Currently Working On
+- Strengthening Python, NumPy, and Pandas fundamentals  
+- Building ML models from scratch to deepen understanding  
+- Learning data analysis and visualisation  
+- Tracking my progress through small, meaningful projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Skills (Growing Every Day)
+- **Languages:** Python  
+- **Data:** NumPy, Pandas  
+- **Visualization:** Matplotlib  
+- **ML (learning):** Scikit-Learn, ML fundamentals  
+- **Tools:** Git, GitHub, Jupyter Notebook  
+
+### 📂 Featured Learning Projects
+- 🔢 *Linear Regression from Scratch (NumPy only)* – WIP  
+- 📊 *Data Exploration & Cleaning (Pandas)* – Coming soon  
+- 🧪 *LeetCode/Exercism Python Practice*  
+
+### 📫 Contact Me
+**Email:** shakurahmadd@gmail.com
+
+---
+
+> *“Little steps every day turn into big results.”*  
+I'm documenting my journey into AI & ML — feel free to follow along!
