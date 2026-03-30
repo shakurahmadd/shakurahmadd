@@ -1,30 +1,23 @@
-# Hi, I'm Shakur 👋
+# Shakur Ahmad
 
-Aspiring Machine Learning & AI Engineer  
-Passionate about Python, data, and building end-to-end ML projects.
+Physics graduate (First Class, University of Sussex), building production ML 
+and NLP systems. Nearly two years evaluating and adversarially probing frontier 
+LLMs for leading AI laboratories.
 
-### 🚀 Currently Working On
-- Strengthening Python, NumPy, and Pandas fundamentals  
-- Building ML models from scratch to deepen understanding  
-- Learning data analysis and visualisation  
-- Tracking my progress through small, meaningful projects
-
-### 🧠 Tech Skills (Growing Every Day)
-- **Languages:** Python  
-- **Data:** NumPy, Pandas  
-- **Visualization:** Matplotlib  
-- **ML (learning):** Scikit-Learn, ML fundamentals  
-- **Tools:** Git, GitHub, Jupyter Notebook  
-
-### 📂 Featured Learning Projects
-- 🔢 *Linear Regression from Scratch (NumPy only)* – WIP  
-- 📊 *Data Exploration & Cleaning (Pandas)* – Coming soon  
-- 🧪 *LeetCode/Exercism Python Practice*  
-
-### 📫 Contact Me
-**Email:** shakurahmadd@gmail.com
+Seeking junior ML/AI Engineer and NLP Engineer roles in and around London.
 
 ---
 
-> *“Little steps every day turn into big results.”*  
-I'm documenting my journey into AI & ML — feel free to follow along!
+## Stack
+Python · PyTorch · HuggingFace · LangChain · FAISS · Scikit-learn · 
+Flask · SQL · Docker · Git
+
+---
+
+## Currently building
+FinSight — autonomous financial research agent with LoRA fine-tuning, 
+LangGraph, FastAPI, and PostgreSQL.
+
+---
+
+[LinkedIn](https://linkedin.com/in/shakurahmad) · [Email](mailto:shakurahmadd@gmail.com)
